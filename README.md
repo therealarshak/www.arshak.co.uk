@@ -1,3 +1,3 @@
 # www.arshak.co.uk
-My website.
-A website.
+A blog for me.
+This is actually a dev version, but I'm cool so my dev version is my master branch.
